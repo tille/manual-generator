@@ -1,4 +1,6 @@
 place your files at /src
 
-´$ npm i -g gulp´
-´$ gulp´
+```
+$ npm i -g gulp
+$ gulp
+```
